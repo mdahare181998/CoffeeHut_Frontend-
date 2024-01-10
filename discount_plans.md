@@ -4,7 +4,7 @@
 
 - *Discount Percentage:* 10%
 - *Applicability:* All products and services
-- *Conditions:* Valid only for payments made through CoffeeHut_Wallet
+- *Conditions:* Valid only for payments made through CoffeeHut_Wallet 
 
 ## Loyal User Profile
 
