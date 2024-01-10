@@ -5,7 +5,7 @@
 - Mocha Frappuccino
 - Vanilla Latte
 - Cold Brew
-- ### Special Coffee Blend
+- #### Special Coffee Blend
   - **Description:** Our exclusive Special Coffee Blend, crafted with the finest beans from around the world.
   - **Price:** 800 Rs per bag
   - **Discount for Coffehut_Wallet Users:**
